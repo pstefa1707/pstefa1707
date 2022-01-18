@@ -1,4 +1,4 @@
-Hi, I'm Paras . I'm studying computer science at the Australian National University and working as a software developer at [CSIRO](https://www.csiro.au/en/).
+Hi, I'm Paras. I'm studying computer science at the Australian National University and working as a software developer at [CSIRO](https://www.csiro.au/en/).
 
 I love theoretical computer science and have a keen interest in software design and engineering.
 
